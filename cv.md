@@ -5,17 +5,28 @@
 
 [**tel *+375 00 000 00 00***](tel:+375000000000)
 ***
-## About me
+## About me:
 
 I am an embedded software developer using STM32 microcontrollers. I'm interested in becoming a front-end developer. I'm reliable and self-motivated.
 ***
 ## My skills:
 * **C**     *intermediate*
-* **html**  *basic*
-* **Css**   *basic*
+* **HTML**  *basic*
+* **CSS**   *basic*
 * **JS**    *basic* 
 * **Git**   *basic*
 ***
+##  Education: 
+ 1. **BNTU**: 
+    * Faculty of Information Technologies and Robotics;
+ 1. **BSUIR Affiliate "Minsk Radioengineering College"**: 
+    * Department of Computer Technologies
+***
+## Languages: 
+* *English* **A0** 
+* *Russian* **B2**
+* *Belarusian* **A2**
+	
 
 
 
